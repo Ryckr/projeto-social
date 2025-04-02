@@ -31,6 +31,7 @@ main{
     height: 627px;
     width: 311px;
     background-color: aqua;
+    margin: auto;
 
     background: url('../imagens/frame-iphone.png') 
 }
